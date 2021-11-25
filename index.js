@@ -1224,10 +1224,7 @@ const serialUser = createSerial(18)
               cnf.relayWAMessage(prep)
 	         console.log(color('[REGISTRO]'), color(time, 'yellow'), 'Serial:', color(serialUser, 'cyan'), 'en', color(sender || groupName))
 	    // console.log(e)
-            setTimeout( () => {
-			cnf.updatePresence(from, Presence.composing)
-			reply(`*Gracias por registrarse en 𝗖𝗼𝗻𝗳𝘂𝗕𝗼𝘁4*`)
-		}, 2000)
+ 
         break
       
 case 'help':
