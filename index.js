@@ -546,7 +546,7 @@ const finv = {
     };
     const fvn = {
       key: {
-        participant: `51923568749@s.whatsapp.net`,
+        participant: `523781201906@s.whatsapp.net`,
         ...(from ? { remoteJid: "6289643739077-1613049930@g.us" } : {}),
       },
       message: {
@@ -956,12 +956,12 @@ isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
                 "title": `WhatsApp`,
-                "body": `wa.me/51923568749`,
+                "body": `wa.me/523781201906`,
                 "mediaType": "10",
-                "mediaUrl": `wa.me/51923568749`,
+                "mediaUrl": `wa.me/523781201906`,
                 "thumbnailUrl": "https://i.ibb.co/QJRWXb9/IMG-20211107-WA0044.jpg",
                 "thumbnail": iye,
-                "sourceUrl": `wa.me/51923568749`,
+                "sourceUrl": `wa.me/523781201906`,
 },mentionedJid:[sender]}, quoted : mek})
 };
 const fakeyt = (teks) => {
@@ -1433,7 +1433,7 @@ sendButLocation(from, `${menu}`,`𝘽𝙤𝙩 𝘽𝙮 @${dtod.split("@")[0]}`, 
 
 break
 case 'creditos':
-   dtod = '51923568749'
+   dtod = '523781201906'
    var yez = `
    [ 𝐶𝑟𝑒𝑑𝑖𝑡𝑜𝑠 ] :
    
