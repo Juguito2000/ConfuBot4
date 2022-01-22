@@ -4241,9 +4241,9 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
               : mek;
           delb = await cnf.downloadMediaMessage(boij);
           fs.writeFileSync(`./stik/fake.jpeg`, delb);
-          reply("Listo");
+         
         } else {
-          reply(`Envia una imagen con la etiqueta ${prefix}setfakeimg`);
+          
         }
         break;
       case "setthumb":
