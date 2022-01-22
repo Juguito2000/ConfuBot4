@@ -414,8 +414,6 @@ const timeWib = moment.tz('Asia/Jakarta').format('DD/MM HH:mm:ss')
 cmhit.push(command)
     //MESS
     mess = {
-      wait: "𝗣𝗼𝗿 𝗳𝗮𝘃𝗼𝗿 𝗲𝘀𝗽𝗲𝗿𝗲 ± 𝘂𝗻 𝗺𝗶𝗻𝘂𝘁𝗼︎",
-      success: "𝗟𝗶𝘀𝘁𝗼 𝘅𝗱︎",
       wrongFormat: "Formato incorrecto, inténtalo de nuevo en el menú",
       error: {
         stick: "no es un sticker :v",
