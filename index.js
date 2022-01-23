@@ -1278,8 +1278,8 @@ groups = cnf.chats.array.filter(v => v.jid.endsWith('g.us'))
               latensie = speed() - timestampe
               total = math(`${groups.length}*${privat.length}`)
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-        ptod = "51923568749@s.whatsapp.net"
-        dtod = '51923568749'
+        ptod = "523781201906@s.whatsapp.net"
+        dtod = '523781201906'
         stod = `${sender}`
         uwuu = '```'
         yoii = '*'
@@ -2366,7 +2366,7 @@ if (!isGroup) return reply(`*Solo puede ser utilizado en grupos*`)
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
 			if (!isGroup) return reply('esta función es solo para grupos')
 			if (!isGroupAdmins) return reply('Solo un administrador de el grupo puede usarlo')
-			if (!isBotGroupAdmins) return reply('No sou admin')
+			if (!isBotGroupAdmins) return reply('No soy admin')
 			if (args.length < 1) return reply('Falta el número')
 					try {
 						num = `${args[0].replace(/ /g, '')}@s.whatsapp.net`
